@@ -10,6 +10,7 @@
 			<autor>Pau Gasol</autor>
 			<isbn>7593148620753</isbn>
 			<any>2018</any>
+            <preu>15.00</preu>
 		</llibre>
 	</llibres>
 </cataleg>

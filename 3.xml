@@ -10,6 +10,7 @@
 			<autor>J. K. Rowling</autor>
 			<isbn>5794831564782</isbn>
 			<any>1997</any>
+            <preu>10.00</preu>
 		</llibre>
 	</llibres>
 </cataleg>

@@ -10,6 +10,7 @@
 			<autor>C. S. Lewis</autor>
 			<isbn>7419538620542</isbn>
 			<any>1950</any>
+            <preu>10.00</preu>
 		</llibre>
 	</llibres>
 </cataleg>
