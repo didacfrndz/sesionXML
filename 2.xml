@@ -1,4 +1,3 @@
-<cataleg xsi:noNamespaceSchemaLocation="catalag.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<llibreria>
 		<id>0001</id>
 		<nom>Libreria Paco</nom>
@@ -13,4 +12,3 @@
             <preu>15.00</preu>
 		</llibre>
 	</llibres>
-</cataleg>
