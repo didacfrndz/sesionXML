@@ -1,0 +1,15 @@
+<cataleg xsi:noNamespaceSchemaLocation="catalag.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<llibreria>
+		<id>0001</id>
+		<nom>Libreria Paco</nom>
+        <ciudad>Badalona</ciudad>
+	</llibreria>
+	<llibres>
+		<llibre>
+			<titol>Harry Potter y la piedra filosofal</titol>
+			<autor>J. K. Rowling</autor>
+			<isbn>5794831564782</isbn>
+			<any>1997</any>
+		</llibre>
+	</llibres>
+</cataleg>

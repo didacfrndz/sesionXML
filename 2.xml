@@ -1,0 +1,15 @@
+<cataleg xsi:noNamespaceSchemaLocation="catalag.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<llibreria>
+		<id>0001</id>
+		<nom>Libreria Paco</nom>
+        
+	</llibreria>
+	<llibres>
+		<llibre>
+			<titol>Bajo el aro: Aprender del éxito y del fracaso</titol>
+			<autor>Pau Gasol</autor>
+			<isbn>7593148620753</isbn>
+			<any>2018</any>
+		</llibre>
+	</llibres>
+</cataleg>

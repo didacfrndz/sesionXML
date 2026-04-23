@@ -1,0 +1,15 @@
+<cataleg xsi:noNamespaceSchemaLocation="catalag.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<llibreria>
+		<id>0001</id>
+		<nom>Libreria Paco</nom>
+        <ciudad>Badalona</ciudad>
+	</llibreria>
+	<llibres>
+		<llibre>
+			<titol>El leon, la bruja y el armario</titol>
+			<autor>C. S. Lewis</autor>
+			<isbn>7419538620542</isbn>
+			<any>1950</any>
+		</llibre>
+	</llibres>
+</cataleg>

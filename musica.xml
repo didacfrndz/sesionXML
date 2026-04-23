@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musica>
+    <grupo cantante="Yeat">
+        <album nombre="Lyfë">
+            <cancion>Flawlëss</cancion>
+            <cancion>Out thë way</cancion>
+            <cancion>Talk</cancion>
+        </album>
+    </grupo>
+    <grupo cantante="Travis Scott">
+        <album nombre="Astroworld">
+            <cancion>Sicko Mode</cancion>
+            <cancion>5% TINT</cancion>
+            <cancion>Butterfly Effect</cancion>
+        </album>
+    </grupo>
+    <grupo cantante="Michael Jackson">
+        <album nombre="Thriller">
+            <cancion>Thriller</cancion>
+            <cancion>Beat it</cancion>
+            <cancion>Billie Jean</cancion>
+        </album>
+    </grupo>
+</musica>

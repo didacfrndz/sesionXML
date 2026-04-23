@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase>
+    <alumno dni="54038812J">
+        <nombre>Didac</nombre>
+        <apellidos>Fernandez Barco</apellidos>
+        <fecha_nacimiento>18/07/2002</fecha_nacimiento>
+    </alumno>
+    <alumno dni="89574231X">
+        <nombre>Edgar</nombre>
+        <apellidos>Baena Garcia</apellidos>
+        <fecha_nacimiento>24/12/2000</fecha_nacimiento>
+    </alumno>
+    <alumno dni="87562149G">
+        <nombre>Daniel</nombre>
+        <apellidos>Ferrer Robles</apellidos>
+        <fecha_nacimiento>15/07/2002</fecha_nacimiento>   
+    </alumno>
+</clase>
